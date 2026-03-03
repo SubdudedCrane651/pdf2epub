@@ -1,2 +1,5 @@
 pdfminer.six
-ebooklib                                      
+ebooklib
+pymupdf
+ebooklib
+pillow                                     
